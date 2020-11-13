@@ -6,6 +6,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 //random comment
 		System.out.println("app");
+		System.out.println("L'isep c'est de la merde");
 	}
 
 }
